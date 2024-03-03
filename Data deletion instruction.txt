@@ -1,1 +1,5 @@
-Google it
+Data deletion instruction:
+
+step 1: click the setting icon
+step 2: find the profile section and scroll down. You should find the "Delete account" button at the end
+step 3: click it.
